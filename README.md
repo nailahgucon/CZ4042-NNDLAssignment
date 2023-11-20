@@ -12,3 +12,8 @@ CZ4042 Neural Network and Deep Learning Course Assignment
 > Please view the `Assignment_Feedback.pdf` for the personalised feedback given on my assignment submission by the TAs at the end of my semester.
 > 
 > Do take note of it and rectify the code solutions provided accordingly.
+
+### Assignment Statistics Released (out of 100):
+| My Score    | Cohort Average | Cohort Median |
+| -------- | ------- | ------- |
+| **92.38**    | 85.58751    | 88.50    |
